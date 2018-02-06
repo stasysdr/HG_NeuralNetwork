@@ -1,3 +1,5 @@
+# also published at  https://repl.it/repls/GleamingMeaslyDolphin
+
 import math
 
 # every Unit corresponds to a wire in the diagrams
